@@ -23,6 +23,7 @@ I'm living somewhere in the UTC+8 area. When I'm not fiddling with code, I can b
 - Frameworks: `CodeIgniter`, `Laravel`
 
 #### Other tools:
+- Tests: `Vitest`, `Playwright`
 - XAMPP, Docker, Laragon, AI Coding Agents
 
 <!---
