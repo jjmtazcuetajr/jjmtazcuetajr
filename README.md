@@ -8,23 +8,19 @@
 
 I'm living somewhere in the UTC+8 area. When I'm not fiddling with code, I can be found watching anime, travel vlogs, and historical documentaries 🖥️, reading comics 📖, playing retro games 🎮, and gardening 🌷.
 
-## Tech stack:
+## Tech stack and Skills:
 
-#### Frontend:
-- Languages: `HTML`, `CSS`, `JavaScript`, `TypeScript`
-- Libraries: `jQuery`
-- Frameworks: `Bootstrap`, `Vue.js`, `Tailwind CSS`, `Astro`
-- CSS preprocessors: `SCSS`
-- Others: `Reka UI`, `shadcn/vue`
+Languages: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `PHP`
 
-#### Backend:
-- Languages: `PHP`
-- SQL: `MySQL`, `MariaDB`
-- Frameworks: `CodeIgniter`, `Laravel`
+Frameworks: `Bootstrap`, `Vue.js`, `Tailwind CSS`, `Astro`, `CodeIgniter`
 
-#### Other tools:
-- Tests: `Vitest`, `Playwright`
-- XAMPP, Docker, Laragon, AI Coding Agents
+Frontend Libraries and UI: `jQuery`, `Reka UI`, `shadcn/vue`, `SASS/SCSS`
+
+Databases: `MySQL`, `MariaDB`
+
+Testing and Quality Assurance: `Vitest`, `Playwright`
+
+DevOps and Cloud: `Git (GitHub)`, `GitHub Actions`, `Continuous Integration/Continuous Delivery (CI/CD)`, `Docker`, `Netlify`, `Cloudflare Pages`
 
 <!---
 jjmtazcuetajr/jjmtazcuetajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
