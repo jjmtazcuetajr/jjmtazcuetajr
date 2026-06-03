@@ -4,7 +4,7 @@
 
 - 🌱 I’m constantly learning **Vue 3**, **TypeScript**, and **Astro**
 - 💞️ I’m looking to collaborate on projects and exciting opportunities that can expand my expertise
-- 📫 How to reach me `azcuetajjmt at gmail dot com`
+- 📫 You can reach me at `jjmtaj at proton dot me`
 
 I'm living somewhere in the UTC+8 area. When I'm not fiddling with code, I can be found watching anime, travel vlogs, and historical documentaries 🖥️, reading comics 📖, playing retro games 🎮, and gardening 🌷.
 
