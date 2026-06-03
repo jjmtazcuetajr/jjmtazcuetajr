@@ -8,6 +8,9 @@
 
 I'm living somewhere in the UTC+8 area. When I'm not fiddling with code, I can be found watching anime, travel vlogs, and historical documentaries 🖥️, reading comics 📖, playing retro games 🎮, and gardening 🌷.
 
+I'm also Vue.js Certified btw
+[![Vue.js Mid-Level Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Mid--Level-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/a1ed508c-0217-4378-b07f-f2c2083c2d6d)
+
 ## Tech stack and Skills:
 
 Languages: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `PHP`
