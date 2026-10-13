@@ -20,6 +20,8 @@ Frameworks: `Bootstrap`, `Vue.js`, `Tailwind CSS`, `Astro`, `CodeIgniter`
 
 Frontend Libraries and UI: `jQuery`, `Reka UI`, `shadcn/vue`, `SASS/SCSS`
 
+CMS: `WordPress`
+
 Databases: `MySQL`, `MariaDB`
 
 Testing and Quality Assurance: `Vitest`, `Playwright`
